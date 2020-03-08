@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { WebPrintDriver } from './WebPrintDriver';
+import { UsbDriver } from './UsbDriver';
+export { UsbDriver, WebPrintDriver };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZy10aGVybWFsLXByaW50LyIsInNvdXJjZXMiOlsibGliL2RyaXZlcnMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLE9BQU8sRUFBRSxjQUFjLEVBQUUsTUFBTSxrQkFBa0IsQ0FBQztBQUNsRCxPQUFPLEVBQUUsU0FBUyxFQUFFLE1BQU0sYUFBYSxDQUFDO0FBQ3hDLE9BQU8sRUFDSCxTQUFTLEVBQ1QsY0FBYyxFQUNqQixDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgV2ViUHJpbnREcml2ZXIgfSBmcm9tICcuL1dlYlByaW50RHJpdmVyJztcbmltcG9ydCB7IFVzYkRyaXZlciB9IGZyb20gJy4vVXNiRHJpdmVyJztcbmV4cG9ydCB7XG4gICAgVXNiRHJpdmVyLFxuICAgIFdlYlByaW50RHJpdmVyXG59Il19
